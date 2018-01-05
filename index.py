@@ -2,6 +2,7 @@ import json
 import datetime
 
 
+#Red Mail cast section
 def handler(event, context):
     data = {
         'output': 'Hello World',
